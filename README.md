@@ -31,4 +31,4 @@ The Self-Balancing Inverted Pendulum Simulation is an educational project that d
 ## Installation
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/self-balancing-inverted-pendulum-simulation.git
+git clone https://github.com/sployal/Self_balancing_invertedpendulum
